@@ -1,1 +1,15 @@
-# authentication-webiste
+# authentication-website ⚠️
+fun website to check password using express JS 
+# Topic learnt 
++ dirname()- function takes a single argument, which is the path of the file or directory from which you want to extract the parent directory. It returns a string containing the parent directory path.<br/>
++ fileURLToPath() -This function converts the URL .<br/>
++ import.meta.url: This property contains the URL of the current module.<br/>
+# Languages used
+node js
+express js
+# Set Up 💻
+1)Install npm init.
+2) Install npm package express & body-parser
+3)Run the node index.js file.
+
+

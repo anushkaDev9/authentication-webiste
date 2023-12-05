@@ -8,8 +8,8 @@ fun website to check password using express JS
 node js
 express js
 # Set Up 💻
-1)Install npm init.
-2) Install npm package express & body-parser
-3)Run the node index.js file.
+1)Install npm init..<br/>
+2) Install npm package express & body-parser.<br/>
+3)Run the node index.js file..<br/>
 
 
